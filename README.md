@@ -5,6 +5,8 @@ Das Werk steht unter CC-BY-NC-SA 4.0 Lizenz.
 
 
 ## Changelog
+- 2026-09-16 Version 2.0.1 hochgeladen.
+	- Kleinere Korrekturen an Aufgaben
 - 2026-09-14 Version 2.0 hochgeladen.
 	- Neu: Kapitel 6 und 7 hinzugefügt (Aufgaben mit Lösungshinweise)
 	- Diverse kleine Ergänzungen und Korrekturen
