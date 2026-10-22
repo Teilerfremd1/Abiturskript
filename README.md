@@ -5,6 +5,9 @@ Das Werk steht unter CC-BY-NC-SA 4.0 Lizenz.
 
 
 ## Changelog
+- 2026-10-22 Version 2.0.2 hochgeladen.
+	- Mehrere Fehlerkorrekturen
+	- Aufgabe zu Funktionsscharen hinzugefügt (6.1 Aufgabe 8)
 - 2026-09-16 Version 2.0.1 hochgeladen.
 	- Kleinere Korrekturen an Aufgaben
 - 2026-09-14 Version 2.0 hochgeladen.
